@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.zjc163.androidnotes.music.MusicMainActivity">
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:background="#3f51b5"
+        android:orientation="horizontal">
+        <RadioButton
+            android:id="@+id/radio1"
+            style="@style/TabText"
+            android:checked="true"
+            android:text="@string/tab_playing"/>
+        <RadioButton
+            android:id="@+id/radio2"
+            style="@style/TabText"
+            android:text="@string/tab_play_list"/>
+        <RadioButton
+            android:id="@+id/radio3"
+            style="@style/TabText"
+            android:text="@string/tab_favorite"/>
+    </RadioGroup>
+</LinearLayout>

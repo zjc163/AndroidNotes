@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">安卓笔记</string>
+
+    <string name="navigation_drawer_close">关闭导航侧边栏</string>
+    <string name="navigation_drawer_open">打开导航侧边栏</string>
+
+    <string name="action_settings">设置</string>
+    <string name="tab_playing">正在播放</string>
+    <string name="tab_play_list">歌曲列表</string>
+    <string name="tab_favorite">收藏</string>
+
+</resources>
