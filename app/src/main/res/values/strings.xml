@@ -5,7 +5,12 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+<!-- Music Player -->
     <string name="tab_playing">Playing</string>
     <string name="tab_play_list">Play List</string>
     <string name="tab_favorite">Faves</string>
+    <string name="music_player">Music Player</string>
+    <string name="song_name">Song Name</string>
+    <string name="song_singer">Song Singer</string>
+    <string name="song_duration">Song Duration</string>
 </resources>
